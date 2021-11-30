@@ -1,0 +1,7 @@
+C:\Users\Cliente\source\repos\ProvaDiscurciva\bin\Debug\ProvaDiscurciva.exe.config
+C:\Users\Cliente\source\repos\ProvaDiscurciva\bin\Debug\ProvaDiscurciva.exe
+C:\Users\Cliente\source\repos\ProvaDiscurciva\bin\Debug\ProvaDiscurciva.pdb
+C:\Users\Cliente\source\repos\ProvaDiscurciva\obj\Debug\ProvaDiscurciva.csproj.AssemblyReference.cache
+C:\Users\Cliente\source\repos\ProvaDiscurciva\obj\Debug\ProvaDiscurciva.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\source\repos\ProvaDiscurciva\obj\Debug\ProvaDiscurciva.exe
+C:\Users\Cliente\source\repos\ProvaDiscurciva\obj\Debug\ProvaDiscurciva.pdb
